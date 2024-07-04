@@ -1,4 +1,4 @@
-read -p "Enter a number: " N
+read -p "Enter limit: " N
 A=0
 B=1
 echo "The fibonacci series is "
