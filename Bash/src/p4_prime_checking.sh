@@ -1,4 +1,4 @@
-read -p "Enter a number " NUM
+read -p "Enter a number: " NUM
 IS_PRIME=0
 if [ $NUM -gt 1 ] ; then
     IS_PRIME=1
